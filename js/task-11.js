@@ -18,5 +18,6 @@ function findSmallerNumber(numbers) {
   }
   return smallNumber;
 }
+
 console.log(!Array.isArray(numbers));
 console.log(findSmallerNumber(numbers));
