@@ -1,3 +1,9 @@
+/*
+Завдання 4
+Кнопка "Зменшити" робить квадрат менше на 10 пікселів,  "Збільшити" - більше на 10 пікселів.
+*/
+
+
 const boxEl = document.querySelector('#box');
 const btnFirstlEl = document.querySelector('#decrease');
 const btnSecondEl = document.querySelector('#increase');
